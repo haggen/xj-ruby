@@ -11,8 +11,6 @@
 # Example 2:
 # XJ.read('./sample.xls').to_json
 #
-require 'json'
-
 require 'xj/version'
 require 'xj/api'
 require 'xj/spreadsheet'
